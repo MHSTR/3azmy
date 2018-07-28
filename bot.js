@@ -3,7 +3,7 @@ const client = new Discord.Client();
 
 client.on('ready', function(){	
     var ms = 40000 ;	
-    var setGame = ['playing صدام حسين فخر العرب ','playing صدام حسين فخر العرب '];	
+    var setGame = [' صدام حسين فخر العرب ',' صدام حسين فخر العرب '];	
     var i = -1;	
     var j = 0;	
     setInterval(function (){	
